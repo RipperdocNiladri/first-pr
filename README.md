@@ -8,4 +8,4 @@ Add yourself below 👇
 ## Contributors
 
 - [Debpriyo Ghosal] — SDE @ Kubar Labs 
-- [Your Name] — Your description
+- [Niladri Pal] — 1st-year Electronics & Communication Engineering Student | Python, C Developer | Web development | Embedded Systems | Robotics & Tech Enthusiast
