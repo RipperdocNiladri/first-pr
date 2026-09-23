@@ -9,3 +9,5 @@ Add yourself below 👇
 
 - [Debpriyo Ghosal] — SDE @ Kubar Labs 
 - [Niladri Pal] — 1st-year Electronics & Communication Engineering Student interested in programming, electronics and embedded systems.
+- [Daipayan Maitra] — STUDENT @ NSEC 
+- [Your Name] — Your description
